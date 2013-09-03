@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hello" />
+
+    <Button
+        android:id="@+id/btnSelectVaccines"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnSelectVaccines" />
+
+    <Button
+        android:id="@+id/btnPieChart"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="pieChartHandler"
+        android:text="@string/btnPieChart" />
+
+    <Button
+        android:id="@+id/btnBarChart"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="barChartHandler"
+        android:text="@string/btnBarChart" />
+    
+    <Button
+        android:id="@+id/btnStartSmsScan"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="barChartHandler"
+        android:text="@string/btnStartSmsScan" />
+    
+    <Button
+        android:id="@+id/btnStopSmsScan"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="barChartHandler"
+        android:text="@string/btnStopSmsScan" />
+
+    <Button
+        android:id="@+id/btnMap"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Map" />
+
+</LinearLayout>

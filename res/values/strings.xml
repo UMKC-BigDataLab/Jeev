@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Main Menu</string>
+    <string name="app_name">Jeev - Server</string>
+    <string name="btnStartService">Start Service</string>
+    <string name="btnStopService">Stop Service</string>
+    <string name="btnPieChart">Pie Chart</string>
+    <string name="btnBarChart">Bar Chart</string>
+    <string name="btnSelectVaccines">Select Vaccines</string>
+    <string name="btnStartSmsScan">Start SMS Scan Service</string>
+    <string name="btnStopSmsScan">Stop SMS Scan Service</string>
+
+</resources>
