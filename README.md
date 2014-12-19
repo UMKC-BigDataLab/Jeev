@@ -1,4 +1,4 @@
-Publications
+##Publications
 
 Anas Katib, Deepthi Rao, Praveen Rao, Karen Williams - A Low-Cost Cell Phone Application for Tracking the Vaccination Coverage of Children in Rural Communities. Proceedings of IEEE International Conference on Healthcare Informatics 2013 (ICHI 2013), pages 115-120, Philadephia, PA.
 
